@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yan-tianyi.github.io</id>
-    <title>Blog</title>
-    <updated>2021-08-23T04:01:36.277Z</updated>
+    <title>yyds严天翼</title>
+    <updated>2021-08-23T04:02:16.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yan-tianyi.github.io"/>
     <link rel="self" href="https://yan-tianyi.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://yan-tianyi.github.io/images/avatar.png</logo>
     <icon>https://yan-tianyi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Blog</rights>
+    <rights>All rights reserved 2021, yyds严天翼</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://yan-tianyi.github.io/post/hello-gridea/</id>
