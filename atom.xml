@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://dream-yty.github.io</id>
-    <title>Blog</title>
-    <updated>2021-08-23T03:47:07.606Z</updated>
+    <id>https://yan-tianyi.github.io</id>
+    <title>温馨Blog</title>
+    <updated>2021-08-23T03:54:03.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://dream-yty.github.io"/>
-    <link rel="self" href="https://dream-yty.github.io/atom.xml"/>
+    <link rel="alternate" href="https://yan-tianyi.github.io"/>
+    <link rel="self" href="https://yan-tianyi.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://dream-yty.github.io/images/avatar.png</logo>
-    <icon>https://dream-yty.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Blog</rights>
+    <logo>https://yan-tianyi.github.io/images/avatar.png</logo>
+    <icon>https://yan-tianyi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 温馨Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://dream-yty.github.io/post/hello-gridea/</id>
-        <link href="https://dream-yty.github.io/post/hello-gridea/">
+        <id>https://yan-tianyi.github.io/post/hello-gridea/</id>
+        <link href="https://yan-tianyi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
