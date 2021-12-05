@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yan-tianyi.github.io</id>
     <title>我のBlog</title>
-    <updated>2021-12-05T07:05:13.507Z</updated>
+    <updated>2021-12-05T07:22:01.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yan-tianyi.github.io"/>
     <link rel="self" href="https://yan-tianyi.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://yan-tianyi.github.io/images/avatar.png</logo>
     <icon>https://yan-tianyi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 我のBlog</rights>
+    <entry>
+        <title type="html"><![CDATA[死亡细胞]]></title>
+        <id>https://yan-tianyi.github.io/post/4aB5x7EOM/</id>
+        <link href="https://yan-tianyi.github.io/post/4aB5x7EOM/">
+        </link>
+        <updated>2021-12-05T07:07:37.000Z</updated>
+    </entry>
 </feed>
