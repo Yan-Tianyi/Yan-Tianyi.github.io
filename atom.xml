@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yan-tianyi.github.io</id>
-    <title>我のBlog</title>
-    <updated>2021-12-05T07:31:41.554Z</updated>
+    <title>ytyのblog</title>
+    <updated>2021-12-11T01:46:56.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yan-tianyi.github.io"/>
     <link rel="self" href="https://yan-tianyi.github.io/atom.xml"/>
     <subtitle>木の叶の舞うところには,火も生きている。</subtitle>
     <logo>https://yan-tianyi.github.io/images/avatar.png</logo>
     <icon>https://yan-tianyi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 我のBlog</rights>
+    <rights>All rights reserved 2021, ytyのblog</rights>
     <entry>
         <title type="html"><![CDATA[死亡细胞]]></title>
         <id>https://yan-tianyi.github.io/post/4aB5x7EOM/</id>
